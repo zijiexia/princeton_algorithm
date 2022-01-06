@@ -1,2 +1,2 @@
 # princeton_algorithm
-Assignment of Princeton Algorithm
+Assignments of Coursera Princeton Algorithm.
